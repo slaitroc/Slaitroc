@@ -1,6 +1,6 @@
 <div align="center">
-    <h2> Wassup! I’m @Slaitroc 📼</h2>
-    <h5>Computer Science student at Politecnico di Milano 👾</h5>
+    <h2> Wassup! I’m <strong>Slaitroc</strong> 📼</h2>
+    <h5>Computer Science student at <strong>Politecnico di Milano</strong> 👾</h5>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/dell-XPS%2015%20-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dellxps15">
