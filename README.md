@@ -1,5 +1,5 @@
 <div align="center">
-    <h2> slaitoc - Lorenzo Ricci </h4>
+    <h2> slaitroc - Lorenzo Ricci </h4>
     <h5>Computer Science student at <strong>Politecnico di Milano</strong></h5>
 
 <div align="center">
